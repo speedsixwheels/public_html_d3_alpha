@@ -11,3 +11,51 @@ Updated: 2023-01-11 21:35:12
 
 */
 
+
+/*****************/
+/**** FOOTER *****/
+/*****************/
+.elementor-location-footer h4{
+    color: #194ccb !important;
+} 
+
+.elementor-location-footer .elementor-widget-container{
+    color: #434b4d !important;
+}
+
+.elementor-location-footer .box-heading a{
+    color: #434b4d !important;
+}
+
+.elementor-location-footer .vertical-sub-nav li a{
+    color: #4e5754 !important;
+}
+
+.elementor-location-footer .dt-nav-menu > li > a.active-item{
+    color: #4e5754 !important;
+}
+
+.elementor-location-footer .dt-nav-menu > li > a{
+    color: #434b4d !important;
+}
+
+.elementor-location-footer .elementor-icon-div svg{
+    fill: #194ccb !important;
+}
+
+.elementor-752 .elementor-element.elementor-element-bb77327 .elementor-icon {
+    background-color: #194ccb !important;
+}
+
+
+.elementor-location-footer #copyright .elementor-heading-title{  
+    color: #434b4d !important;
+}
+
+.elementor-location-footer #pages a{  
+    color: #434b4d !important;
+}
+
+
+
+
